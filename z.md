@@ -5,8 +5,6 @@ Quiero evolucionar el proyecto actual a una versión **Premium/Pro**, manteniend
 ## 1. 🧹 SMART CLEAN — LIMPIEZA INTELIGENTE
 
 Crear un sistema de análisis antes de borrar.
-<!-- sss -->
-
 <!-- https://dprojects.org/descargas/ -->
 <!-- https://minios.dev/?lang=en -->
 <!-- https://github.com/bmack -->
